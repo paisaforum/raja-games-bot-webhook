@@ -1,0 +1,60 @@
+{
+  "6860099409": {
+    "stars": 0,
+    "totalStars": 3,
+    "totalRedemptions": 1,
+    "referredBy": null,
+    "name": "Wilson FFF",
+    "username": "flagwin",
+    "joinDate": "2025-07-06T07:42:08.409Z",
+    "lastActive": "2025-07-06T07:50:41.694Z"
+  },
+  "6051478787": {
+    "stars": 0,
+    "totalStars": 0,
+    "totalRedemptions": 0,
+    "referredBy": {
+      "id": "6860099409",
+      "name": "Wilson FFF",
+      "username": "flagwin"
+    },
+    "name": "七星",
+    "username": "qixingz",
+    "joinDate": "2025-07-06T07:45:14.990Z",
+    "lastActive": "2025-07-07T09:02:45.393Z"
+  },
+  "8090604743": {
+    "stars": 1,
+    "totalStars": 1,
+    "totalRedemptions": 0,
+    "referredBy": null,
+    "name": "Raja",
+    "username": "RajagamesBet",
+    "joinDate": "2025-07-06T10:26:09.953Z",
+    "lastActive": "2025-07-07T09:17:06.385Z"
+  },
+  "6066507299": {
+    "stars": 0,
+    "totalStars": 0,
+    "totalRedemptions": 0,
+    "referredBy": null,
+    "name": "骑士",
+    "username": "qishi_101",
+    "joinDate": "2025-07-06T17:34:15.733Z",
+    "lastActive": "2025-07-06T17:34:15.733Z"
+  },
+  "6346120329": {
+    "stars": 0,
+    "totalStars": 0,
+    "totalRedemptions": 0,
+    "referredBy": {
+      "id": "8090604743",
+      "name": "Raja",
+      "username": "RajagamesBet"
+    },
+    "name": "Noor",
+    "username": "restart1047_0",
+    "joinDate": "2025-07-07T09:18:32.358Z",
+    "lastActive": "2025-07-07T09:18:32.358Z"
+  }
+}
