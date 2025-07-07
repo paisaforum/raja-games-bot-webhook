@@ -1143,7 +1143,7 @@ console.log("🤖 RAJA GAMES HELP BOT with Admin features is running...");
 
 const PORT = process.env.PORT || 3000;
 
-app.post(`/bot/${TOKEN}`, (req, res) => {
+app.post(`/bot${TOKEN}`, (req, res) => {
     bot.processUpdate(req.body);
     res.sendStatus(200);
 });
